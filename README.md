@@ -1,15 +1,17 @@
-Crea tu cuenta en docker hub
+# 1. Crea tu cuenta en docker hub
 
-![](./images/dockerhub.png)
+![Crear cuenta en Docker Hub](images/docker-hub.png)
 
-Ejecuta un contenedor en Play With Docker
+# 2. Ejecuta un contenedor en Play With Docker
 
-Detén el contenedor
+![Ejecutar un contenedor](images/run-container.png)
 
-Borra el contenedor
+# 3. Detén el contenedor & Borra el contenedor
 
-Crea un nuevo contenedor con el nombre de tu usuario de correo (Ej: scadena)
+![Detener y eliminar un contenedor](images/stop-delete-container.png)
 
-Publica el puerto 80
+# 4. Crea un nuevo contenedor con el nombre de tu usuario de correo (Ej: scadena) & Publica el puerto 80
 
-Sube las evidencias a un repositorio de Git y compártelo conmigo a scadena@unicesar.edu.co
+![Publicar el puerto 80](images/create-expose-80.png)
+
+# 5. Sube las evidencias a un repositorio de Git y compártelo conmigo a scadena@unicesar.edu.co
